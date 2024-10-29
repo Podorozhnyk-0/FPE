@@ -262,5 +262,3 @@ STALKER$
 InspectorGadget
 FNF^白子的账号
 kubi04020
-LocalPl4y3r
-NightmareGB
